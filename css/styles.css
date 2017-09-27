@@ -1,0 +1,132 @@
+#aboutbox {
+	background-color: #123c5c;
+	color: white;
+	padding: 10px;
+	width: 105px;
+	border-radius: 10px;
+}
+
+#blog {
+	background-color: white;
+}
+
+#blogbox {
+	background-color: #123c5c;
+	color: white;
+	padding: 10px;
+	width: 85px;
+	border-radius: 10px;
+}
+
+#contact {
+	background-color: white;
+}
+
+#contactbox {
+	background-color: #123c5c;
+	color: white;
+	padding: 10px;
+	width: 130px;
+	border-radius: 10px;
+}
+
+.img-blog {
+	margin-top: 10px;
+}
+
+#introtext {
+	color: white;
+	text-align: center;
+	font-size: 70px;
+	padding: 10% 0% 0% 0%;
+}
+
+#footer {
+	color: white;
+	height: 100px;
+	padding: 40px 0px 0px 0px;
+	text-align: center;
+	background-image: url("https://images.pexels.com/photos/342469/pexels-photo-342469.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.links {
+	color: black;
+}
+
+#navbar {
+	background-image: url("https://images.pexels.com/photos/342469/pexels-photo-342469.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 0;
+	border-radius: 0;
+	height: 700px;
+}
+
+#navlinks {
+	color: white;
+	font-size: 14px;
+}
+
+.ptitle {
+	text-align: center;
+}
+
+.p1 {
+	text-align: center;
+}
+
+
+#portfolio {
+	background-color: white;
+}
+
+#portfoliobox {
+	background-color: #123c5c;
+	color: white;
+	padding: 10px;
+	width: 135px;
+	border-radius: 10px;
+}
+
+.read-more {
+	padding-top: 20px;
+	text-align: center;
+}
+
+#resumebox {
+	background-color: #123c5c;
+	color: white;
+	padding: 10px;
+	width: 135px;
+	border-radius: 10px;
+}
+
+#rur {
+	text-align: center;
+}
+
+#socialli {
+	font-size: 40px;
+	margin: 10px;
+	list-style: none; 
+}
+
+
+
+#social {
+	display: flex;
+	text-align: right;	
+}
+
+.sociala {
+	color: #123c5c;
+}
+
+
+
+
+
+
